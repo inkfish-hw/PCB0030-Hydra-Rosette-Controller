@@ -624,12 +624,72 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "IF Part Number",
+          "name": "IF Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part Number",
+          "name": "Manufacturer Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PowerRating",
+          "name": "PowerRating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VoltageRating",
+          "name": "VoltageRating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Color",
+          "name": "Color",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -682,7 +742,7 @@
         "uuid": "df978e03-2dac-4ec8-92e0-39a8e8848573"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D1,#PWR1-63,C3-27,F1,R1-13,R16-33,J1-7,U1-13",
     "variants": []
   },
   "sheets": [
@@ -693,15 +753,15 @@
   ],
   "text_variables": {
     "APPROVER": "{{REVIEWERS}}",
-    "BOARD": "INKFISH BOARD TEMPLATE",
+    "BOARD": "Rosette Controller",
     "CLASS": "COMMERCIAL IN CONFIDENCE",
     "DISTRIBUTION": "PROJECT/SUPPLIERS ONLY",
-    "LAYOUT_DESIGNER": "no name dos",
+    "LAYOUT_DESIGNER": "Brian Ramos",
     "LAYOUT_STATUS": "DRAFT",
-    "MODIFIEDDATE": "05-01-2025",
-    "PART_NUMBER": "XXX",
-    "PROJECT": "INK0000 - INKFISH TEMPLATES",
-    "SCH_DESIGNER": "no name uno",
+    "MODIFIEDDATE": "07-22-2026",
+    "PART_NUMBER": "0030",
+    "PROJECT": "PCB0030 - Rosette Controller",
+    "SCH_DESIGNER": "Brian Ramos",
     "STATUS": "DRAFT"
   },
   "tuning_profiles": {
