@@ -5575,7 +5575,7 @@
 		)
 		(uuid "04d3ba8d-3321-4f41-9757-68699093536d")
 	)
-	(text "3.5A Max Current\n300mA Default Current Limit\nMicrocontroller DAC Programmable"
+	(text "3.5A Max Current\n1.65A Default Current Limit\nMicrocontroller DAC Programmable"
 		(exclude_from_sim no)
 		(at 124.46 172.72 0)
 		(effects
@@ -6043,6 +6043,12 @@
 		(uuid "03530619-028d-4002-8d60-aacce73e5c01")
 	)
 	(junction
+		(at 243.84 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05fa10b2-1e7c-44d2-8736-5282a06d2e6c")
+	)
+	(junction
 		(at 271.78 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6055,7 +6061,7 @@
 		(uuid "09df520f-3534-4f76-b6aa-fe8c7ad640e6")
 	)
 	(junction
-		(at 210.82 193.04)
+		(at 203.2 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c6044ad-5573-4a87-a8aa-ee50c003065c")
@@ -6247,12 +6253,6 @@
 		(uuid "7cf38c9c-7814-4f60-883c-606a6183c6a2")
 	)
 	(junction
-		(at 233.68 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7d5785fc-a3e0-4424-9806-7df132e2fb9c")
-	)
-	(junction
 		(at 259.08 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6271,7 +6271,7 @@
 		(uuid "84285128-437b-461d-9946-c35812d00cc8")
 	)
 	(junction
-		(at 182.88 185.42)
+		(at 175.26 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e5583ad-aa19-4b6f-a0f1-51a36b211a0b")
@@ -6385,13 +6385,19 @@
 		(uuid "c89d43ae-17d6-482c-b9f4-0e9474c2956a")
 	)
 	(junction
-		(at 182.88 200.66)
+		(at 220.98 193.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc20744f-0eae-42f6-bfb3-2342a7b956b2")
+	)
+	(junction
+		(at 175.26 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d22b2f2e-edaf-489a-a9b0-ab6deda15008")
 	)
 	(junction
-		(at 233.68 187.96)
+		(at 243.84 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d75a7440-1a33-4a4b-b72a-fbf8c76c7994")
@@ -6610,7 +6616,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 185.42) (xy 233.68 187.96)
+			(xy 243.84 182.88) (xy 243.84 185.42)
 		)
 		(stroke
 			(width 0)
@@ -6720,6 +6726,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 195.58) (xy 220.98 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "083edc46-fd26-4c53-bb0e-09320f908a14")
+	)
+	(wire
+		(pts
 			(xy 160.02 83.82) (xy 175.26 83.82)
 		)
 		(stroke
@@ -6780,7 +6796,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 193.04) (xy 187.96 200.66)
+			(xy 180.34 190.5) (xy 180.34 198.12)
 		)
 		(stroke
 			(width 0)
@@ -6820,7 +6836,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 185.42) (xy 187.96 185.42)
+			(xy 175.26 182.88) (xy 180.34 182.88)
 		)
 		(stroke
 			(width 0)
@@ -6837,6 +6853,16 @@
 			(type default)
 		)
 		(uuid "10923926-2be6-4719-a8eb-5187fb78d0bc")
+	)
+	(wire
+		(pts
+			(xy 208.28 193.04) (xy 210.82 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "109b1608-1e2d-4fc2-92be-0dc13677b4c1")
 	)
 	(wire
 		(pts
@@ -6887,6 +6913,16 @@
 			(type default)
 		)
 		(uuid "19abbb3b-6217-480c-b094-04d901b7c9ab")
+	)
+	(wire
+		(pts
+			(xy 220.98 193.04) (xy 223.52 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a13f8c0-78e6-4b6d-b25e-a2bdfba9fe12")
 	)
 	(wire
 		(pts
@@ -7130,7 +7166,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 200.66) (xy 233.68 205.74)
+			(xy 243.84 200.66) (xy 243.84 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7460,7 +7496,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 193.04) (xy 182.88 185.42)
+			(xy 175.26 190.5) (xy 175.26 182.88)
 		)
 		(stroke
 			(width 0)
@@ -7600,7 +7636,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 200.66) (xy 182.88 198.12)
+			(xy 175.26 198.12) (xy 175.26 195.58)
 		)
 		(stroke
 			(width 0)
@@ -7620,7 +7656,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 187.96) (xy 215.9 187.96)
+			(xy 200.66 185.42) (xy 208.28 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8000,6 +8036,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 200.66) (xy 220.98 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a69a853-5360-43bd-b1f4-c84efd3a797f")
+	)
+	(wire
+		(pts
 			(xy 180.34 238.76) (xy 205.74 238.76)
 		)
 		(stroke
@@ -8280,6 +8326,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 187.96) (xy 243.84 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7167c17d-ef99-4c15-bb85-370ca41b7135")
+	)
+	(wire
+		(pts
 			(xy 129.54 134.62) (xy 132.08 134.62)
 		)
 		(stroke
@@ -8420,6 +8476,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 193.04) (xy 220.98 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a784d49-3a18-4f37-a6d0-cc2a15e1b696")
+	)
+	(wire
+		(pts
 			(xy 182.88 78.74) (xy 182.88 81.28)
 		)
 		(stroke
@@ -8520,7 +8586,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 187.96) (xy 233.68 190.5)
+			(xy 243.84 185.42) (xy 243.84 187.96)
 		)
 		(stroke
 			(width 0)
@@ -8650,13 +8716,23 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 190.5) (xy 233.68 193.04)
+			(xy 243.84 187.96) (xy 243.84 193.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8847a02d-223c-4731-a38b-a0c06c3c5cec")
+	)
+	(wire
+		(pts
+			(xy 208.28 190.5) (xy 208.28 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88b84ebe-3ff2-4d99-bbf6-49a535f39019")
 	)
 	(wire
 		(pts
@@ -8830,7 +8906,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 187.96) (xy 238.76 187.96)
+			(xy 243.84 185.42) (xy 248.92 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8880,7 +8956,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 193.04) (xy 210.82 195.58)
+			(xy 203.2 190.5) (xy 203.2 193.04)
 		)
 		(stroke
 			(width 0)
@@ -9180,7 +9256,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 200.66) (xy 182.88 200.66)
+			(xy 180.34 198.12) (xy 175.26 198.12)
 		)
 		(stroke
 			(width 0)
@@ -9470,7 +9546,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 193.04) (xy 215.9 193.04)
+			(xy 203.2 190.5) (xy 208.28 190.5)
 		)
 		(stroke
 			(width 0)
@@ -9490,7 +9566,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 185.42) (xy 215.9 185.42)
+			(xy 200.66 182.88) (xy 208.28 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9617,16 +9693,6 @@
 			(type default)
 		)
 		(uuid "ce37ef04-39b8-4977-96de-18bb8026e4c1")
-	)
-	(wire
-		(pts
-			(xy 208.28 190.5) (xy 233.68 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf3a2c62-211c-425f-aae8-5afea057d412")
 	)
 	(wire
 		(pts
@@ -9800,7 +9866,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 203.2) (xy 210.82 205.74)
+			(xy 203.2 200.66) (xy 203.2 203.2)
 		)
 		(stroke
 			(width 0)
@@ -9960,7 +10026,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 187.96) (xy 187.96 187.96)
+			(xy 170.18 185.42) (xy 180.34 185.42)
 		)
 		(stroke
 			(width 0)
@@ -10060,7 +10126,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 182.88) (xy 182.88 185.42)
+			(xy 175.26 180.34) (xy 175.26 182.88)
 		)
 		(stroke
 			(width 0)
@@ -10090,7 +10156,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 190.5) (xy 187.96 190.5)
+			(xy 170.18 187.96) (xy 180.34 187.96)
 		)
 		(stroke
 			(width 0)
@@ -10210,7 +10276,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 175.26) (xy 233.68 177.8)
+			(xy 243.84 172.72) (xy 243.84 175.26)
 		)
 		(stroke
 			(width 0)
@@ -10230,7 +10296,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 193.04) (xy 210.82 193.04)
+			(xy 200.66 190.5) (xy 203.2 190.5)
 		)
 		(stroke
 			(width 0)
@@ -10439,7 +10505,7 @@
 		(uuid "2c099661-2b18-4de3-b015-f89a36ae63aa")
 	)
 	(label "MOTOR1"
-		(at 177.8 187.96 180)
+		(at 170.18 185.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10609,7 +10675,7 @@
 		(uuid "63f9b8d1-a429-44d8-82d5-ad5195e2b939")
 	)
 	(label "MOTOR_IN2"
-		(at 215.9 187.96 0)
+		(at 208.28 185.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10639,7 +10705,7 @@
 		(uuid "68ea02be-7302-41d8-899a-58c5127e9220")
 	)
 	(label "MOTOR2"
-		(at 177.8 190.5 180)
+		(at 170.18 187.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10678,16 +10744,6 @@
 		)
 		(uuid "7e75c2e3-4870-4362-8ee8-a49c8050ff37")
 	)
-	(label "MOTOR_ISENSE"
-		(at 215.9 193.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7e81474c-f92b-4b59-9e92-318321fbd553")
-	)
 	(label "PC_TXD"
 		(at 320.04 38.1 0)
 		(effects
@@ -10709,7 +10765,7 @@
 		(uuid "8574c720-172e-46c9-93b3-a0d45fa1eced")
 	)
 	(label "MOTOR_IN1"
-		(at 215.9 185.42 0)
+		(at 208.28 182.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10727,6 +10783,16 @@
 			(justify right bottom)
 		)
 		(uuid "8bb69bf2-580f-40d5-8c51-7a90960c5d8b")
+	)
+	(label "MOTOR_ISENSE"
+		(at 223.52 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cc4a9d3-f648-43fd-9f7a-5c5dc5bfd2f3")
 	)
 	(label "MOTOR1"
 		(at 58.42 104.14 0)
@@ -10949,7 +11015,7 @@
 		(uuid "c8dce1fe-0b60-47da-9c2a-36aa96a9e99e")
 	)
 	(label "MOTOR_ILIM"
-		(at 238.76 187.96 0)
+		(at 248.92 185.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13585,7 +13651,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 233.68 205.74 0)
+		(at 243.84 203.2 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -13596,7 +13662,7 @@
 		(dnp no)
 		(uuid "2f571f39-90f0-4d19-9934-95b9c7a7e5b1")
 		(property "Reference" "#PWR032"
-			(at 233.68 212.09 0)
+			(at 243.84 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13607,7 +13673,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 233.68 209.55 0)
+			(at 243.84 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13617,7 +13683,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.68 205.74 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13628,7 +13694,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 205.74 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13639,7 +13705,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 233.68 205.74 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14074,7 +14140,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 205.74 0)
+		(at 203.2 203.2 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14085,7 +14151,7 @@
 		(dnp no)
 		(uuid "349e95b5-cfef-4d88-94fd-63bdac028c46")
 		(property "Reference" "#PWR031"
-			(at 210.82 212.09 0)
+			(at 203.2 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14096,7 +14162,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 210.82 209.55 0)
+			(at 203.2 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14106,7 +14172,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 205.74 0)
+			(at 203.2 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14117,7 +14183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 205.74 0)
+			(at 203.2 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14128,7 +14194,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 205.74 0)
+			(at 203.2 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14446,7 +14512,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 182.88 200.66 0)
+		(at 175.26 198.12 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14457,7 +14523,7 @@
 		(dnp no)
 		(uuid "371fe0f1-81c4-4239-8595-a0eebd38de87")
 		(property "Reference" "#PWR024"
-			(at 182.88 207.01 0)
+			(at 175.26 204.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14468,7 +14534,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 182.88 204.47 0)
+			(at 175.26 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14478,7 +14544,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 200.66 0)
+			(at 175.26 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14489,7 +14555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 200.66 0)
+			(at 175.26 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14500,7 +14566,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 200.66 0)
+			(at 175.26 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15260,6 +15326,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 220.98 203.2 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "49a5308c-3b63-4d6d-b66d-7b3d58390986")
+		(property "Reference" "#PWR064"
+			(at 220.98 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 220.98 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "93d6d94c-5efb-44ba-9184-e7b957bfd529")
+		)
+		(instances
+			(project "RosetteController"
+				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 154.94 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -15703,6 +15847,108 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 243.84 179.07 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56a7529c-c621-4d42-8ea0-c300a1476714")
+		(property "Reference" "R18"
+			(at 241.935 179.07 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 243.84 179.07 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 245.618 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+			(at 243.84 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 243.84 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF1002X"
+			(at 243.84 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic Industry"
+			(at 243.84 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1606d339-fe6c-4966-ac4f-486b2e95e623")
+		)
+		(pin "1"
+			(uuid "a5581605-5019-4c0f-85d7-37754e9c666c")
+		)
+		(instances
+			(project "RosetteController"
+				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "prj-symbols:MAX11201")
 		(at 218.44 233.68 0)
 		(mirror y)
@@ -15908,7 +16154,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 182.88 182.88 0)
+		(at 175.26 180.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15918,7 +16164,7 @@
 		(dnp no)
 		(uuid "59f81bc7-9ac9-43fa-9028-915317396873")
 		(property "Reference" "#PWR030"
-			(at 182.88 186.69 0)
+			(at 175.26 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15929,7 +16175,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 182.88 179.324 0)
+			(at 175.26 176.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15939,7 +16185,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 182.88 0)
+			(at 175.26 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15950,7 +16196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 182.88 0)
+			(at 175.26 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15961,7 +16207,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 182.88 182.88 0)
+			(at 175.26 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16421,7 +16667,7 @@
 	)
 	(symbol
 		(lib_id "prj-symbols:TB67H450AFNG")
-		(at 198.12 182.88 0)
+		(at 190.5 180.34 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -16432,7 +16678,7 @@
 		(dnp no)
 		(uuid "673b752e-8807-4415-a2ca-40fdbf400632")
 		(property "Reference" "U6"
-			(at 198.12 179.324 0)
+			(at 190.5 176.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16442,7 +16688,7 @@
 			)
 		)
 		(property "Value" "TB67H450AFNG"
-			(at 198.12 181.864 0)
+			(at 190.5 179.324 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16452,7 +16698,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm"
-			(at 198.12 173.99 0)
+			(at 190.5 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16463,7 +16709,7 @@
 			)
 		)
 		(property "Datasheet" "https://toshiba.semicon-storage.com/info/TB67H450AFNG_datasheet_en_20250730.pdf"
-			(at 198.12 176.53 0)
+			(at 190.5 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16474,7 +16720,7 @@
 			)
 		)
 		(property "Description" "Bipolar Motor Driver Power MOSFET 8-HSOP"
-			(at 198.12 169.164 0)
+			(at 190.5 166.624 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16485,7 +16731,7 @@
 			)
 		)
 		(property "Manufacturer" "Toshiba Semiconductor and Storage"
-			(at 198.12 171.45 0)
+			(at 190.5 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16496,7 +16742,7 @@
 			)
 		)
 		(property "MPN" "TB67H450AFNG,EL"
-			(at 198.12 166.37 0)
+			(at 190.5 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19243,7 +19489,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 182.88 195.58 0)
+		(at 175.26 193.04 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -19254,7 +19500,7 @@
 		(dnp no)
 		(uuid "8ccd7ecd-c310-4af6-abd3-cc69401e0bab")
 		(property "Reference" "C11"
-			(at 180.34 193.04 0)
+			(at 172.72 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19265,7 +19511,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 180.34 195.58 0)
+			(at 172.72 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19276,7 +19522,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 182.88 195.58 0)
+			(at 175.26 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19287,7 +19533,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
-			(at 182.88 195.58 0)
+			(at 175.26 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19298,7 +19544,7 @@
 			)
 		)
 		(property "Description" "4.7 µF ±10% 50V Ceramic Capacitor X5R 0805 (2012 Metric)"
-			(at 182.88 195.58 0)
+			(at 175.26 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19309,7 +19555,7 @@
 			)
 		)
 		(property "MPN" "GRM21BR61H475KE51L"
-			(at 182.88 195.58 0)
+			(at 175.26 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19320,7 +19566,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 182.88 195.58 0)
+			(at 175.26 193.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19331,7 +19577,7 @@
 			)
 		)
 		(property "VoltageRating" "50V"
-			(at 180.34 198.12 0)
+			(at 172.72 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20547,7 +20793,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 233.68 196.85 0)
+		(at 243.84 196.85 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -20558,7 +20804,7 @@
 		(dnp no)
 		(uuid "9e2ba5c9-8920-4bdf-bed1-0bef7e3b0b10")
 		(property "Reference" "R17"
-			(at 231.775 196.85 90)
+			(at 241.935 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20568,7 +20814,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 233.68 196.85 90)
+			(at 243.84 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20578,7 +20824,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 235.458 196.85 90)
+			(at 245.618 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20589,7 +20835,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 233.68 196.85 0)
+			(at 243.84 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20600,7 +20846,7 @@
 			)
 		)
 		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 233.68 196.85 0)
+			(at 243.84 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20611,7 +20857,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF1002X"
-			(at 233.68 196.85 0)
+			(at 243.84 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20622,7 +20868,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic Industry"
-			(at 233.68 196.85 0)
+			(at 243.84 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20649,7 +20895,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 233.68 175.26 0)
+		(at 243.84 172.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20659,7 +20905,7 @@
 		(dnp no)
 		(uuid "9fc93db4-6c5a-4296-bc89-e9cdc1967197")
 		(property "Reference" "#PWR033"
-			(at 233.68 179.07 0)
+			(at 243.84 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20670,7 +20916,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 233.68 171.45 0)
+			(at 243.84 168.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20680,7 +20926,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.68 175.26 0)
+			(at 243.84 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20691,7 +20937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 175.26 0)
+			(at 243.84 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20702,7 +20948,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 233.68 175.26 0)
+			(at 243.84 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21645,7 +21891,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 210.82 199.39 0)
+		(at 203.2 196.85 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -21656,7 +21902,7 @@
 		(dnp no)
 		(uuid "afd8aaa4-5831-4b9e-9bd1-64a33ca28921")
 		(property "Reference" "R16"
-			(at 208.915 199.39 90)
+			(at 201.295 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21666,7 +21912,7 @@
 			)
 		)
 		(property "Value" "100m"
-			(at 210.82 199.39 90)
+			(at 203.2 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21676,7 +21922,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2010_5025Metric"
-			(at 212.598 199.39 90)
+			(at 204.978 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21687,7 +21933,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.seielect.com/catalog/SEI-CSNL.pdf"
-			(at 210.82 199.39 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21698,7 +21944,7 @@
 			)
 		)
 		(property "Description" "100 mOhms ±1% 1.5W Chip Resistor 2010 (5025 Metric) Current Sense, Moisture Resistant Metal Element"
-			(at 210.82 199.39 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21709,7 +21955,7 @@
 			)
 		)
 		(property "MPN" "CSNL2010FTR100"
-			(at 210.82 199.39 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21720,7 +21966,7 @@
 			)
 		)
 		(property "Manufacturer" "Stackpole Electronics Inc"
-			(at 210.82 199.39 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21731,7 +21977,7 @@
 			)
 		)
 		(property "PowerRating" "2W"
-			(at 213.36 199.39 90)
+			(at 205.74 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22533,6 +22779,108 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 214.63 193.04 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c8d06635-e1d2-4fdb-b981-a83485e8a8bb")
+		(property "Reference" "R34"
+			(at 214.63 191.135 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 214.63 193.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 214.63 194.818 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+			(at 214.63 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 214.63 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF1002X"
+			(at 214.63 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic Industry"
+			(at 214.63 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "89b7175f-ee5c-416e-9b15-dd8ee195f103")
+		)
+		(pin "1"
+			(uuid "a88715e3-a1bd-4ed2-89f6-c1efd5413569")
+		)
+		(instances
+			(project "RosetteController"
+				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 50.8 86.36 90)
 		(unit 1)
@@ -23145,6 +23493,122 @@
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 220.98 198.12 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d9aca400-3f44-48a6-8d61-9abfcfedf4ea")
+		(property "Reference" "C28"
+			(at 218.44 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 218.44 198.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 220.98 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM155R71H104KE02-01A-EN_PDF_CERAMICCAPACITORSMD"
+			(at 220.98 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
+			(at 220.98 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GCM155R71H104KE02D"
+			(at 220.98 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 220.98 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "VoltageRating" "50V"
+			(at 218.44 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "133947a0-5889-4249-9936-6784e44d0986")
+		)
+		(pin "1"
+			(uuid "19e710d2-ad82-411f-88ac-aa3e23da1bed")
+		)
+		(instances
+			(project "RosetteController"
+				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -24207,108 +24671,6 @@
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 233.68 181.61 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f682fdc2-057b-46c6-b5f3-b2edf4f73a2b")
-		(property "Reference" "R18"
-			(at 231.775 181.61 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100k"
-			(at 233.68 181.61 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 235.458 181.61 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 233.68 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 233.68 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "ERJ-2RKF1003X"
-			(at 233.68 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Panasonic Industry"
-			(at 233.68 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "38b7a882-2830-4143-9b1c-a3c29fe066c3")
-		)
-		(pin "1"
-			(uuid "9ebd0dfb-de84-4291-8f1b-a3ae470f7721")
-		)
-		(instances
-			(project "RosetteController"
-				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R18")
 					(unit 1)
 				)
 			)
