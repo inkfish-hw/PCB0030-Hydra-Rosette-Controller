@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Inkfish_SOM")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_SOM.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Connector")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Connector.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Sensor")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Sensor.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_IC")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_IC.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Isolation")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Isolation.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Inductor")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Inductor.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Capacitor")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Capacitor.pretty")(options "")(descr ""))
+  (lib (name "prj-footprints")(type "KiCad")(uri "${KIPRJMOD}/prj-libs/footprints.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_Relays")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_Relays.pretty")(options "")(descr ""))
+  (lib (name "Inkfish_TO")(type "KiCad")(uri "${INKFISH_FOOTPRINT_DIR}/Inkfish_TO.pretty")(options "")(descr ""))
+)
