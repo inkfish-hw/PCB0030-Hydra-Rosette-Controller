@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.08,
         "silk_text_italic": false,
@@ -578,7 +578,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "CAM/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -773,7 +773,7 @@
         "uuid": "df978e03-2dac-4ec8-92e0-39a8e8848573"
       }
     ],
-    "used_designators": "#PWR65,C29",
+    "used_designators": "R12,R37",
     "variants": []
   },
   "sheets": [
