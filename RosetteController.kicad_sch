@@ -12830,7 +12830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00063aee-df11-4ac1-8035-2f331ceaf513")
-		(property "Reference" "C7"
+		(property "Reference" "C19"
 			(at 193.04 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12928,7 +12928,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C7")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -12946,7 +12946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00481c99-7e05-47fd-bb02-7ee7df18a214")
-		(property "Reference" "R8"
+		(property "Reference" "R13"
 			(at 168.275 148.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13030,7 +13030,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R8")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -13202,7 +13202,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0434d85f-37c7-4e30-a9b7-675fc2691216")
-		(property "Reference" "U9"
+		(property "Reference" "U3"
 			(at 63.5 235.585 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13298,7 +13298,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U9")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13316,7 +13316,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "048c249f-8b3d-4957-a027-4e336fbf5cb6")
-		(property "Reference" "R25"
+		(property "Reference" "R3"
 			(at 33.655 247.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13400,7 +13400,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R25")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -13650,7 +13650,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cdbec76-b7f7-483e-b039-5deab60f3ed5")
-		(property "Reference" "R26"
+		(property "Reference" "R1"
 			(at 81.915 237.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13734,7 +13734,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R26")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13828,7 +13828,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1132b5a6-0a70-41a7-a2a4-65fba46d9bc9")
-		(property "Reference" "U2"
+		(property "Reference" "U8"
 			(at 360.68 181.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13982,7 +13982,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U2")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -14000,7 +14000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13ccffc1-0322-4fa8-a2fc-ed8e7cddfb17")
-		(property "Reference" "C4"
+		(property "Reference" "C9"
 			(at 203.2 46.9962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14086,7 +14086,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C4")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -14181,7 +14181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a2d0f5a-b1e4-4d31-a045-b3b0c1c5ae9e")
-		(property "Reference" "R5"
+		(property "Reference" "R22"
 			(at 257.175 52.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14265,7 +14265,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R5")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -14283,7 +14283,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ac75a61-0a20-447e-8652-01c5fcc097a6")
-		(property "Reference" "C17"
+		(property "Reference" "C8"
 			(at 233.68 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14381,7 +14381,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C17")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -14477,7 +14477,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d26f6d0-577c-42e8-a727-745ddb5c3c1e")
-		(property "Reference" "R7"
+		(property "Reference" "R28"
 			(at 173.355 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14561,7 +14561,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R7")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -14656,7 +14656,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e8c7afc-8d07-429d-8f19-bed224dac8a3")
-		(property "Reference" "R2"
+		(property "Reference" "R29"
 			(at 120.65 102.235 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14740,7 +14740,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R2")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -14758,7 +14758,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1efe4384-51b3-42d5-884a-426d13c0c511")
-		(property "Reference" "R20"
+		(property "Reference" "R7"
 			(at 338.455 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14842,7 +14842,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R20")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -14860,7 +14860,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2001abc2-253b-4277-9824-63255071e55b")
-		(property "Reference" "C27"
+		(property "Reference" "C11"
 			(at 269.24 250.1962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14946,7 +14946,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C27")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -14963,7 +14963,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22c2d529-b518-4fcd-ae40-59acaf348e2d")
-		(property "Reference" "R28"
+		(property "Reference" "R26"
 			(at 384.81 201.168 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15047,7 +15047,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R28")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -15297,7 +15297,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32b81aeb-b5cf-4fd3-a55b-9ca398ccc040")
-		(property "Reference" "R3"
+		(property "Reference" "R23"
 			(at 180.975 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15381,7 +15381,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R3")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -15398,7 +15398,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33c6fae4-fd53-4c84-a926-5a3f40785b87")
-		(property "Reference" "U1"
+		(property "Reference" "U6"
 			(at 299.72 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15440,7 +15440,7 @@
 				)
 			)
 		)
-		(property "Description" "ARM® Cortex®-M0+ PIC® 32CM MC Microcontroller IC 32-Bit 48MHz 128KB (128K x 8) FLASH 32-TQFP (7x7)"
+		(property "Description" "ARM Cortex-M0+ PIC 32CM MC Microcontroller IC 32-Bit 48MHz 128KB (128K x 8) FLASH 32-TQFP (7x7)"
 			(at 299.72 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -15574,7 +15574,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U1")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -15592,7 +15592,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3496109a-7ecd-4bf0-bef3-83b114ed8396")
-		(property "Reference" "C12"
+		(property "Reference" "C5"
 			(at 152.4 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15690,7 +15690,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C12")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -15887,7 +15887,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35ae4559-e4e3-4700-ad77-98ed949ab793")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 43.18 200.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15985,7 +15985,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -16081,7 +16081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39f3b8d0-32ec-469b-8d80-c28de0d76d85")
-		(property "Reference" "C5"
+		(property "Reference" "C14"
 			(at 134.62 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16178,7 +16178,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C5")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -16196,7 +16196,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3bb0e365-2a21-4427-81f9-4f9e600729a8")
-		(property "Reference" "R23"
+		(property "Reference" "R10"
 			(at 368.935 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16280,7 +16280,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R23")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -16686,7 +16686,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "42a773f5-516d-4585-b333-7c07986a0016")
-		(property "Reference" "R31"
+		(property "Reference" "R33"
 			(at 33.655 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16770,7 +16770,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R31")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -17329,7 +17329,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d67d6c0-c8f8-46f7-a882-aef0f6e35409")
-		(property "Reference" "R21"
+		(property "Reference" "R6"
 			(at 358.775 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17413,7 +17413,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R21")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -17509,7 +17509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56a7529c-c621-4d42-8ea0-c300a1476714")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 244.475 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17593,7 +17593,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -17611,7 +17611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "57fdb989-11bf-4910-ae94-ba25e222fd2c")
-		(property "Reference" "U5"
+		(property "Reference" "U1"
 			(at 218.44 230.378 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17719,7 +17719,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U5")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -17892,7 +17892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e4bc102-3b67-40d3-a4b3-68edd9171b3a")
-		(property "Reference" "R22"
+		(property "Reference" "R9"
 			(at 363.855 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17976,7 +17976,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R22")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -18070,7 +18070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6113e3f6-eff8-4b5c-9f9f-2a7ae8747283")
-		(property "Reference" "C25"
+		(property "Reference" "C22"
 			(at 395.605 180.975 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18156,7 +18156,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C25")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -18251,7 +18251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "673b752e-8807-4415-a2ca-40fdbf400632")
-		(property "Reference" "U6"
+		(property "Reference" "U10"
 			(at 193.04 176.784 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18356,7 +18356,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U6")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -18450,7 +18450,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6957e5ff-4548-4904-935a-48f7f2e6cc26")
-		(property "Reference" "R36"
+		(property "Reference" "R18"
 			(at 384.81 216.408 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18534,7 +18534,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R36")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -18552,7 +18552,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69ddb8a0-fd8d-462a-b570-667c3c70c6b8")
-		(property "Reference" "R9"
+		(property "Reference" "R14"
 			(at 173.355 148.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18636,7 +18636,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R9")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -18653,7 +18653,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6b1c91e9-7c5b-479f-a819-011cae508ebf")
-		(property "Reference" "C24"
+		(property "Reference" "C18"
 			(at 386.715 186.055 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18739,7 +18739,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C24")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -18756,7 +18756,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ba589dd-3e0e-4331-b5eb-aa839b59d03c")
-		(property "Reference" "U13"
+		(property "Reference" "U12"
 			(at 63.5 192.405 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18852,7 +18852,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U13")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -18947,7 +18947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6db8adcd-307f-4d36-ad2c-0c7318c93611")
-		(property "Reference" "C9"
+		(property "Reference" "C10"
 			(at 243.84 246.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19045,7 +19045,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C9")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -19063,7 +19063,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "702f663f-986c-4d6f-b185-0af5a5294b1c")
-		(property "Reference" "C16"
+		(property "Reference" "C7"
 			(at 279.4 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19161,7 +19161,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C16")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -19512,7 +19512,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76798397-590e-48b6-aa13-c36e5bb45bfb")
-		(property "Reference" "R27"
+		(property "Reference" "R16"
 			(at 348.615 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19596,7 +19596,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R27")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -19613,7 +19613,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76b290c9-e958-435b-afb4-161890c212ae")
-		(property "Reference" "R29"
+		(property "Reference" "R27"
 			(at 384.81 211.328 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19697,7 +19697,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R29")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -19714,7 +19714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7753aff6-7589-4721-b0c0-d0b33a4e7f3e")
-		(property "Reference" "R1"
+		(property "Reference" "R15"
 			(at 120.65 28.575 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19798,7 +19798,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R1")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -19816,7 +19816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7aeac5eb-d421-456c-8b21-a2cbd4fd8b16")
-		(property "Reference" "C20"
+		(property "Reference" "C1"
 			(at 43.18 243.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19914,7 +19914,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C20")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -19932,7 +19932,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bfb4090-2acb-4cb0-952e-5bd49b8697e8")
-		(property "Reference" "R4"
+		(property "Reference" "R30"
 			(at 168.275 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20016,7 +20016,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R4")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -20034,7 +20034,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cd7dd81-9be3-479c-b96e-26f6523c6d80")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 256.54 238.125 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20127,7 +20127,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -20222,7 +20222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f26c8e4-4dfe-4090-aebc-3b117d45738d")
-		(property "Reference" "C18"
+		(property "Reference" "C21"
 			(at 243.84 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20320,7 +20320,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C18")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -20338,7 +20338,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "809bc8ba-4a81-46e4-91bd-cada8605b5db")
-		(property "Reference" "C14"
+		(property "Reference" "C3"
 			(at 177.8 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20436,7 +20436,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C14")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -20454,7 +20454,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81387c1d-a502-4357-8c9f-24e2f7ae243a")
-		(property "Reference" "R19"
+		(property "Reference" "R8"
 			(at 338.455 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20538,7 +20538,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R19")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -20710,7 +20710,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87751974-bba8-482a-ae5f-e4087ffb2290")
-		(property "Reference" "U8"
+		(property "Reference" "U11"
 			(at 360.68 128.905 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20836,7 +20836,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U8")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -20853,7 +20853,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88306469-fef9-43da-b695-4fd234250023")
-		(property "Reference" "R35"
+		(property "Reference" "R17"
 			(at 384.81 206.248 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20937,7 +20937,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R35")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -21109,7 +21109,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8abd661e-d4cd-4af6-8807-f5799b04f80f")
-		(property "Reference" "C8"
+		(property "Reference" "C25"
 			(at 330.2 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21207,7 +21207,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C8")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -21380,7 +21380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ccd7ecd-c310-4af6-abd3-cc69401e0bab")
-		(property "Reference" "C11"
+		(property "Reference" "C26"
 			(at 172.72 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21477,7 +21477,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C11")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -21649,7 +21649,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e8be97f-8a16-4a76-b9be-fad0f737d020")
-		(property "Reference" "C3"
+		(property "Reference" "C4"
 			(at 147.32 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21746,7 +21746,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -21883,7 +21883,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "946dad08-11ee-4eae-85cd-7c5cb3b0a323")
-		(property "Reference" "R10"
+		(property "Reference" "R5"
 			(at 196.215 247.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21977,7 +21977,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R10")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -21995,7 +21995,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94899f13-66b3-4b35-adc6-154471645a3c")
-		(property "Reference" "R30"
+		(property "Reference" "R32"
 			(at 33.655 191.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22079,7 +22079,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R30")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -22096,7 +22096,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95286e10-8b53-413d-8432-d16841c94219")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 167.64 24.892 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22229,7 +22229,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -22247,7 +22247,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9916858b-be69-4dc7-9a7e-cbc24315a0a8")
-		(property "Reference" "C21"
+		(property "Reference" "C15"
 			(at 333.375 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22333,7 +22333,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C21")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -22428,7 +22428,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e28cabb-a31c-47b9-b59d-d9d063364a51")
-		(property "Reference" "R24"
+		(property "Reference" "R2"
 			(at 33.655 234.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22512,7 +22512,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R24")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -22530,7 +22530,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e2ba5c9-8920-4bdf-bed1-0bef7e3b0b10")
-		(property "Reference" "R17"
+		(property "Reference" "R20"
 			(at 244.475 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22614,7 +22614,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R17")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -22632,7 +22632,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "9f35d872-bf6a-4b63-aac5-9324cea51e15")
-		(property "Reference" "R37"
+		(property "Reference" "R11"
 			(at 183.515 52.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22716,7 +22716,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R37")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -22888,7 +22888,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0bef8c2-1a57-47b1-b228-c2b427df7541")
-		(property "Reference" "U11"
+		(property "Reference" "U13"
 			(at 152.4 95.885 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22993,7 +22993,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U11")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -23011,7 +23011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2024ed7-0fea-4f13-99b7-11e75b938f1a")
-		(property "Reference" "C15"
+		(property "Reference" "C6"
 			(at 266.7 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23109,7 +23109,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C15")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -23204,7 +23204,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3ab4cb5-56be-4295-9e98-cbab7affb0b4")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 165.1 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23302,7 +23302,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -23397,7 +23397,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9197c2c-f390-46b0-b1fb-1dd5a6a34514")
-		(property "Reference" "C19"
+		(property "Reference" "C20"
 			(at 256.54 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23495,7 +23495,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C19")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -23512,7 +23512,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab7e7e12-734a-46a4-948c-a31c71845277")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 276.86 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23610,7 +23610,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -23705,7 +23705,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af8d9fac-dbb9-4937-8f2c-9180294a3993")
-		(property "Reference" "R11"
+		(property "Reference" "R4"
 			(at 161.29 236.855 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23789,7 +23789,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R11")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -23807,7 +23807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afd8aaa4-5831-4b9e-9bd1-64a33ca28921")
-		(property "Reference" "R16"
+		(property "Reference" "R31"
 			(at 203.835 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23901,7 +23901,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R16")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -24074,7 +24074,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf30d787-bc22-415e-ac05-edb7ec94a97f")
-		(property "Reference" "R32"
+		(property "Reference" "R34"
 			(at 81.915 194.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24158,7 +24158,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R32")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -24331,7 +24331,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1c96742-6a2f-466a-9523-47d5a3af1a65")
-		(property "Reference" "R33"
+		(property "Reference" "R24"
 			(at 331.47 226.695 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24415,7 +24415,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R33")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -24664,7 +24664,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c8d06635-e1d2-4fdb-b981-a83485e8a8bb")
-		(property "Reference" "R34"
+		(property "Reference" "R25"
 			(at 217.17 191.135 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24748,7 +24748,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R34")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -24766,7 +24766,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0d7961f-b422-4a7e-9254-b4553b34344b")
-		(property "Reference" "C22"
+		(property "Reference" "C16"
 			(at 333.375 194.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24852,7 +24852,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C22")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -24869,7 +24869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d441cae8-77ef-4f05-a784-93929da34e84")
-		(property "Reference" "U10"
+		(property "Reference" "U9"
 			(at 152.4 65.405 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24980,7 +24980,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U10")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -25076,7 +25076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7f65318-9551-4bee-a445-331b98637921")
-		(property "Reference" "C29"
+		(property "Reference" "C23"
 			(at 162.56 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25173,7 +25173,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C29")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -25191,7 +25191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9aca400-3f44-48a6-8d61-9abfcfedf4ea")
-		(property "Reference" "C28"
+		(property "Reference" "C24"
 			(at 220.98 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25289,7 +25289,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C28")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -25306,7 +25306,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da19edc7-49f9-431a-ac6b-fa262969f095")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 353.06 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25425,7 +25425,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -25554,7 +25554,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbc2adbf-2473-47c1-91e2-ee44fece9d4a")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 105.41 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25638,7 +25638,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -25733,7 +25733,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0214e8d-94ac-4361-a2ef-116877e4efbe")
-		(property "Reference" "R6"
+		(property "Reference" "R21"
 			(at 262.255 52.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25817,7 +25817,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "R6")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -26021,7 +26021,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ead00fed-c224-4d5e-950c-579d9917f3d1")
-		(property "Reference" "J7"
+		(property "Reference" "J5"
 			(at 378.46 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26120,7 +26120,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "J7")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -26368,7 +26368,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f665a893-1aaf-4c47-b21e-417872cd3a25")
-		(property "Reference" "C23"
+		(property "Reference" "C17"
 			(at 386.715 196.215 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26454,7 +26454,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C23")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -26472,7 +26472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa1ce4bb-a064-4344-852b-28f2e0a6d435")
-		(property "Reference" "C6"
+		(property "Reference" "C13"
 			(at 147.32 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26569,7 +26569,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "C6")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -26587,7 +26587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe177b37-e3d8-4adb-b71b-edef62095d51")
-		(property "Reference" "U12"
+		(property "Reference" "U2"
 			(at 152.4 128.905 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26692,7 +26692,7 @@
 		(instances
 			(project "RosetteController"
 				(path "/df978e03-2dac-4ec8-92e0-39a8e8848573"
-					(reference "U12")
+					(reference "U2")
 					(unit 1)
 				)
 			)
